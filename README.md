@@ -1,1 +1,14 @@
 # CS-250
+
+
+1) How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+   As a developer, I use an approach that gathers information from multiple involved sources before creating user stories. This includes the Product Owner first, and then input from customer surverys. We take this informations and clarify what user stories can be solved by creating the software. Once we have an idea of what the stakeholders want and what the user needs, we can create the final user stories for the development team to begin working on in increments. As Steve Jobs once said "You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to try to sell it.”. I believe this is why creating user stories helps with the product development. After you have these user stories the team will break the backlog down into sprints that are completed in 2-4 weeks increments. After testing has occured, the prodcut is presented to the stakeholders for examination.
+
+2) How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+   I approach developing programs by first understanding the problem. Starting with the user stories, and then breaking the task of completing the user stories into sprint, I work with a team in an open communication setting. Daily Scrum meetings help us stay on the same page and give each other feedback as well as continue to redefine what will be an acceptable final deliverable for each Sprint given our current progress. As we complete our work we send it through testing and review by the product owner. The team then holds a sprint retrospective to reflect on what worked and what didn't. The combination of scrum meetings, sprints, information radiators, code reviews, and retrospectives foster an environment rich woth communication and improvement.
+
+3) What does it mean to be a good team member in software development?
+
+   Being a good team member in software development means more than just writing clean code. It means being a good commmunicator, being open to feedback, and being able to give the same feedback to others. A good team member must also learn to be flexible and adaptive, as the requirements or needs of the product can and do change. This is why communicating with all the different teams and owners is important, as to avoid doing the work twice! Be communicative, be open to feedback, and be accountable and reliable. Finally, writing clean and maintainable code is of paramount importance. Whem developing a program, use best industry practices and keep future developers in mind when you document what you are doing. Above all else, be a team player. Another team will likely maintain the code, and you want to give them all the tools necessary for the job. 
